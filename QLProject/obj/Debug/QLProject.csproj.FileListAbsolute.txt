@@ -1,0 +1,148 @@
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\obj\Debug\QLProject.fAdmin.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\obj\Debug\QLProject.fLogin.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\obj\Debug\QLProject.fManager.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\bin\Debug\QLProject.exe.config
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\bin\Debug\QLProject.exe
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\bin\Debug\QLProject.pdb
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\obj\Debug\QLProject.exe
+C:\Users\vuvy0\Documents\LẬP TRÌNH (HK2)\Cơ sở lập trình\QLProject\QLProject\obj\Debug\QLProject.pdb
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\bin\Debug\QLProject.exe.config
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\bin\Debug\QLProject.exe
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\bin\Debug\QLProject.pdb
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\obj\Debug\QLProject.fAdmin.resources
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\obj\Debug\QLProject.fLogin.resources
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\obj\Debug\QLProject.fManager.resources
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\obj\Debug\QLProject.exe
+C:\Users\vuvy0\Downloads\tzalo_Project\QLProject\obj\Debug\QLProject.pdb
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\bin\Debug\QLProject.exe.config
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\bin\Debug\QLProject.exe
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\bin\Debug\QLProject.pdb
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.fAdmin.resources
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.fLogin.resources
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.fManager.resources
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.exe
+C:\Users\KHANH\Downloads\File Nhận\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.pdb
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\bin\Debug\QLProject.exe.config
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\bin\Debug\QLProject.exe
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\bin\Debug\QLProject.pdb
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.fAdmin.resources
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.fLogin.resources
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.fManager.resources
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.exe
+D:\QLProject(file goc)\QLProject(file goc)\tzalo_Project\QLProject\obj\Debug\QLProject.pdb
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\bin\Debug\QLProject.exe.config
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\bin\Debug\QLProject.exe
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\bin\Debug\QLProject.pdb
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\obj\Debug\QLProject.fAdmin.resources
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\obj\Debug\QLProject.fLogin.resources
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\obj\Debug\QLProject.fManager.resources
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\obj\Debug\QLProject.exe
+C:\Users\Admin\OneDrive\Máy tính\tzalo_Project\QLProject\obj\Debug\QLProject.pdb
+D:\tzalo_Project\tzalo_Project\QLProject\bin\Debug\QLProject.exe.config
+D:\tzalo_Project\tzalo_Project\QLProject\bin\Debug\QLProject.exe
+D:\tzalo_Project\tzalo_Project\QLProject\bin\Debug\QLProject.pdb
+D:\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+D:\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+D:\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.fAdmin.resources
+D:\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.fLogin.resources
+D:\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.fManager.resources
+D:\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+D:\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+D:\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+D:\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.exe
+D:\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.pdb
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\bin\Debug\QLProject.exe.config
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\bin\Debug\QLProject.exe
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\bin\Debug\QLProject.pdb
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.fAdmin.resources
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.fLogin.resources
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.fManager.resources
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.exe
+C:\Users\MR. LAM\Downloads\tzalo_Project\tzalo_Project\QLProject\obj\Debug\QLProject.pdb
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\bin\Debug\QLProject.exe.config
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\bin\Debug\QLProject.exe
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\bin\Debug\QLProject.pdb
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.fAdmin.resources
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.fLogin.resources
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.fManager.resources
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.exe
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.pdb
+C:\Users\MR. LAM\Downloads\CSLT\QLProject\obj\Debug\QLProject.csproj.SuggestedBindingRedirects.cache
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\bin\Debug\QLProject.exe.config
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\bin\Debug\QLProject.exe
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\bin\Debug\QLProject.pdb
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\obj\Debug\QLProject.fAdmin.resources
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\obj\Debug\QLProject.fLogin.resources
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\obj\Debug\QLProject.fManager.resources
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\obj\Debug\QLProject.exe
+D:\Cosolaptrinh\Cosolaptrinh\QLProject\obj\Debug\QLProject.pdb
+C:\Users\MR. LAM\Downloads\haha\QLProject\bin\Debug\QLProject.exe.config
+C:\Users\MR. LAM\Downloads\haha\QLProject\bin\Debug\QLProject.exe
+C:\Users\MR. LAM\Downloads\haha\QLProject\bin\Debug\QLProject.pdb
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.fAdmin.resources
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.fLogin.resources
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.fManager.resources
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.exe
+C:\Users\MR. LAM\Downloads\haha\QLProject\obj\Debug\QLProject.pdb
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\bin\Debug\QLProject.exe.config
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\bin\Debug\QLProject.exe
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\bin\Debug\QLProject.pdb
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fAdmin.resources
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fLogin.resources
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fManager.resources
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.exe
+C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.pdb

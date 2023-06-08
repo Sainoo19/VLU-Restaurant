@@ -12,7 +12,7 @@ namespace QLProject.DAO
     {
         private static ProvideDAO instance;
 
-        string ketnoiDB = "Data Source=MSI\\SAINOO;Initial Catalog=demo2;Integrated Security=True";
+        string ketnoiDB = "Data Source=MSI\\SAINOO;Initial Catalog=quanlicaphe;Integrated Security=True";
 
        
         public static ProvideDAO Instance

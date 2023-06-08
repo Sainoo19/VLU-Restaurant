@@ -69,16 +69,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>demo2DataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="demo2DataSet1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>demo2DataSet1.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="demo2DataSet2.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>demo2DataSet2.xsd</DependentUpon>
-    </Compile>
     <Compile Include="DTO\Account.cs" />
     <Compile Include="DTO\BillDTO.cs" />
     <Compile Include="DTO\BillInfoDTO.cs" />
@@ -113,6 +103,16 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quanlicapheDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>quanlicapheDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyQuanCafeDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyQuanCafeDataSet.xsd</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="fAccountProfile.resx">
       <DependentUpon>fAccountProfile.cs</DependentUpon>
     </EmbeddedResource>
@@ -145,28 +145,6 @@
     <None Include="demo2DataSet.xss">
       <DependentUpon>demo2DataSet.xsd</DependentUpon>
     </None>
-    <None Include="demo2DataSet1.xsc">
-      <DependentUpon>demo2DataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="demo2DataSet1.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>demo2DataSet1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="demo2DataSet1.xss">
-      <DependentUpon>demo2DataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="demo2DataSet2.xsc">
-      <DependentUpon>demo2DataSet2.xsd</DependentUpon>
-    </None>
-    <None Include="demo2DataSet2.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>demo2DataSet2.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="demo2DataSet2.xss">
-      <DependentUpon>demo2DataSet2.xsd</DependentUpon>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -176,6 +154,28 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="quanlicapheDataSet.xsc">
+      <DependentUpon>quanlicapheDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="quanlicapheDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>quanlicapheDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="quanlicapheDataSet.xss">
+      <DependentUpon>quanlicapheDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyQuanCafeDataSet.xsc">
+      <DependentUpon>QuanLyQuanCafeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyQuanCafeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyQuanCafeDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyQuanCafeDataSet.xss">
+      <DependentUpon>QuanLyQuanCafeDataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

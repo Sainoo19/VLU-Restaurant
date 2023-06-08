@@ -146,3 +146,31 @@ C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QL
 C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
 C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.exe
 C:\Users\MR. LAM\OneDrive\Documents\Cơ sở lập trình\QLProject\obj\Debug\QLProject.pdb
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\bin\Debug\QLProject.exe.config
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\bin\Debug\QLProject.exe
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\bin\Debug\QLProject.pdb
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.SuggestedBindingRedirects.cache
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fAdmin.resources
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fLogin.resources
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fManager.resources
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.exe
+D:\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.pdb
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\bin\Debug\QLProject.exe.config
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\bin\Debug\QLProject.exe
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\bin\Debug\QLProject.pdb
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.AssemblyReference.cache
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fAccountProfile.resources
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fAdmin.resources
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fLogin.resources
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.fManager.resources
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.Properties.Resources.resources
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.GenerateResource.cache
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.csproj.CoreCompileInputs.cache
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.exe
+C:\Users\MR. LAM\OneDrive - VLG\Documents\Ky Thuat Phan Mem\Cơ sở lập trình\QLProject\obj\Debug\QLProject.pdb

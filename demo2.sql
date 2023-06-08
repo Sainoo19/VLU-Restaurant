@@ -1,9 +1,9 @@
 ﻿CREATE DATABASE quanlicaphe
 
 GO 
-drop database quanlicaphe
 
-USE QuanLyCF
+
+USE quanlicaphe
 
 GO
 -- Food 

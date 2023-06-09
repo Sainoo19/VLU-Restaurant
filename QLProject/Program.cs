@@ -16,7 +16,7 @@ namespace QLProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fManager());
+            Application.Run(new fLogin());
         }
     }
 }
